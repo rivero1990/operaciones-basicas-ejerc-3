@@ -1,0 +1,62 @@
+body {
+    display: grid;
+    place-content: center;
+    background-color: saddlebrown;
+}
+
+#primer-recuadro {
+    background-color: palegreen;
+    text-align: center;
+    font-size: large;
+    height: 200px;
+    padding: 10px;
+    border: 3px solid blue;
+}
+
+button {
+    border: 2px solid black;
+    margin-top: 30px;
+    display: grid;
+    margin-left: 190px;
+}
+
+
+#contenedor-opciones {
+    background-color: aliceblue;
+    font-size: large;
+    padding: 5px;
+    margin-top: 50px;
+    border: 4px solid darkmagenta;
+   
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+}
+
+img {
+    display: grid;
+    margin-left: 100px;
+}
+
+a {
+    display: grid;
+    margin-left: 120px;
+    margin-top: 30px;
+    color: blue;
+}
+
+label {
+    display: grid;
+    place-content: center;
+}
+
+input {
+    border: 2px solid black;
+    margin-left: 155px;
+}
+
+iframe {
+    width: 400px;
+}
